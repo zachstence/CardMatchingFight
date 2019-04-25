@@ -8,7 +8,7 @@ Simply clone my GitHub repository and you have all the code ready to go. No extr
 ## Running the Game
 First compile the main class
 
-`$ g++ main.cpp`
+`$ g++ -std=c++11 -pthread main.cpp`
 
 Then, run the program and provide a seed to use for random number generation 
 (to ensure a predictable outcome)
