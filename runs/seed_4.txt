@@ -1,0 +1,266 @@
+DEALER  : shuffle (round 1 / 3)
+DECK    : 11  7  3  0  6  5  4 12  7 10 11 10  4 10  4 11  9  5  4 12  1 12  6  7  0  0  3  5  1  8  8  0  2  5  9 11  7  2  6  9  8  6  8 10  1  2 12  3  9 
+PLAYER 1: hand 3
+PLAYER 1: draws 11
+PLAYER 1: discards 3
+DECK    :  7  3  0  6  5  4 12  7 10 11 10  4 10  4 11  9  5  4 12  1 12  6  7  0  0  3  5  1  8  8  0  2  5  9 11  7  2  6  9  8  6  8 10  1  2 12  3  9  3 
+PLAYER 2: hand 1
+PLAYER 2: draws 7
+PLAYER 2: discards 1
+DECK    :  3  0  6  5  4 12  7 10 11 10  4 10  4 11  9  5  4 12  1 12  6  7  0  0  3  5  1  8  8  0  2  5  9 11  7  2  6  9  8  6  8 10  1  2 12  3  9  3  1 
+PLAYER 3: hand 2
+PLAYER 3: draws 3
+PLAYER 3: discards 3
+DECK    :  0  6  5  4 12  7 10 11 10  4 10  4 11  9  5  4 12  1 12  6  7  0  0  3  5  1  8  8  0  2  5  9 11  7  2  6  9  8  6  8 10  1  2 12  3  9  3  1  3 
+PLAYER 1: hand 11
+PLAYER 1: draws 0
+PLAYER 1: discards 0
+DECK    :  6  5  4 12  7 10 11 10  4 10  4 11  9  5  4 12  1 12  6  7  0  0  3  5  1  8  8  0  2  5  9 11  7  2  6  9  8  6  8 10  1  2 12  3  9  3  1  3  0 
+PLAYER 2: hand 7
+PLAYER 2: draws 6
+PLAYER 2: discards 7
+DECK    :  5  4 12  7 10 11 10  4 10  4 11  9  5  4 12  1 12  6  7  0  0  3  5  1  8  8  0  2  5  9 11  7  2  6  9  8  6  8 10  1  2 12  3  9  3  1  3  0  7 
+PLAYER 3: hand 2
+PLAYER 3: draws 5
+PLAYER 3: discards 2
+DECK    :  4 12  7 10 11 10  4 10  4 11  9  5  4 12  1 12  6  7  0  0  3  5  1  8  8  0  2  5  9 11  7  2  6  9  8  6  8 10  1  2 12  3  9  3  1  3  0  7  2 
+PLAYER 1: hand 11
+PLAYER 1: draws 4
+PLAYER 1: discards 4
+DECK    : 12  7 10 11 10  4 10  4 11  9  5  4 12  1 12  6  7  0  0  3  5  1  8  8  0  2  5  9 11  7  2  6  9  8  6  8 10  1  2 12  3  9  3  1  3  0  7  2  4 
+PLAYER 2: hand 6
+PLAYER 2: draws 12
+PLAYER 2: discards 6
+DECK    :  7 10 11 10  4 10  4 11  9  5  4 12  1 12  6  7  0  0  3  5  1  8  8  0  2  5  9 11  7  2  6  9  8  6  8 10  1  2 12  3  9  3  1  3  0  7  2  4  6 
+PLAYER 3: hand 5
+PLAYER 3: draws 7
+PLAYER 3: discards 7
+DECK    : 10 11 10  4 10  4 11  9  5  4 12  1 12  6  7  0  0  3  5  1  8  8  0  2  5  9 11  7  2  6  9  8  6  8 10  1  2 12  3  9  3  1  3  0  7  2  4  6  7 
+PLAYER 1: hand 11
+PLAYER 1: draws 10
+PLAYER 1: discards 10
+DECK    : 11 10  4 10  4 11  9  5  4 12  1 12  6  7  0  0  3  5  1  8  8  0  2  5  9 11  7  2  6  9  8  6  8 10  1  2 12  3  9  3  1  3  0  7  2  4  6  7 10 
+PLAYER 2: hand 12
+PLAYER 2: draws 11
+PLAYER 2: discards 11
+DECK    : 10  4 10  4 11  9  5  4 12  1 12  6  7  0  0  3  5  1  8  8  0  2  5  9 11  7  2  6  9  8  6  8 10  1  2 12  3  9  3  1  3  0  7  2  4  6  7 10 11 
+PLAYER 3: hand 5
+PLAYER 3: draws 10
+PLAYER 3: discards 5
+DECK    :  4 10  4 11  9  5  4 12  1 12  6  7  0  0  3  5  1  8  8  0  2  5  9 11  7  2  6  9  8  6  8 10  1  2 12  3  9  3  1  3  0  7  2  4  6  7 10 11  5 
+PLAYER 1: hand 11
+PLAYER 1: draws 4
+PLAYER 1: discards 11
+DECK    : 10  4 11  9  5  4 12  1 12  6  7  0  0  3  5  1  8  8  0  2  5  9 11  7  2  6  9  8  6  8 10  1  2 12  3  9  3  1  3  0  7  2  4  6  7 10 11  5 11 
+PLAYER 2: hand 12
+PLAYER 2: draws 10
+PLAYER 2: discards 12
+DECK    :  4 11  9  5  4 12  1 12  6  7  0  0  3  5  1  8  8  0  2  5  9 11  7  2  6  9  8  6  8 10  1  2 12  3  9  3  1  3  0  7  2  4  6  7 10 11  5 11 12 
+PLAYER 3: hand 10
+PLAYER 3: draws 4
+PLAYER 3: discards 4
+DECK    : 11  9  5  4 12  1 12  6  7  0  0  3  5  1  8  8  0  2  5  9 11  7  2  6  9  8  6  8 10  1  2 12  3  9  3  1  3  0  7  2  4  6  7 10 11  5 11 12  4 
+PLAYER 1: hand 4
+PLAYER 1: draws 11
+PLAYER 1: discards 11
+DECK    :  9  5  4 12  1 12  6  7  0  0  3  5  1  8  8  0  2  5  9 11  7  2  6  9  8  6  8 10  1  2 12  3  9  3  1  3  0  7  2  4  6  7 10 11  5 11 12  4 11 
+PLAYER 2: hand 10
+PLAYER 2: draws 9
+PLAYER 2: discards 10
+DECK    :  5  4 12  1 12  6  7  0  0  3  5  1  8  8  0  2  5  9 11  7  2  6  9  8  6  8 10  1  2 12  3  9  3  1  3  0  7  2  4  6  7 10 11  5 11 12  4 11 10 
+PLAYER 3: hand 10
+PLAYER 3: draws 5
+PLAYER 3: discards 5
+DECK    :  4 12  1 12  6  7  0  0  3  5  1  8  8  0  2  5  9 11  7  2  6  9  8  6  8 10  1  2 12  3  9  3  1  3  0  7  2  4  6  7 10 11  5 11 12  4 11 10  5 
+PLAYER 1: hand 4
+PLAYER 1: draws 4
+PLAYER 1: hand 4 4
+PLAYER 1: wins
+PLAYER 1: round completed
+PLAYER 2: round completed
+PLAYER 3: round completed
+DEALER  : shuffle (round 2 / 3)
+DECK    :  9  4  1  6  4  1 12 11  9  3  2  0  9  5  3 10  6  2 11  2 10  7  9  6  8  3  0  7 12  5  0 10  8  8  4  0 11  1  2  3  1  8  7  5  7 12  6 11  4 
+PLAYER 2: hand 10
+PLAYER 2: draws 9
+PLAYER 2: discards 10
+DECK    :  4  1  6  4  1 12 11  9  3  2  0  9  5  3 10  6  2 11  2 10  7  9  6  8  3  0  7 12  5  0 10  8  8  4  0 11  1  2  3  1  8  7  5  7 12  6 11  4 10 
+PLAYER 3: hand 12
+PLAYER 3: draws 4
+PLAYER 3: discards 4
+DECK    :  1  6  4  1 12 11  9  3  2  0  9  5  3 10  6  2 11  2 10  7  9  6  8  3  0  7 12  5  0 10  8  8  4  0 11  1  2  3  1  8  7  5  7 12  6 11  4 10  4 
+PLAYER 1: hand 5
+PLAYER 1: draws 1
+PLAYER 1: discards 5
+DECK    :  6  4  1 12 11  9  3  2  0  9  5  3 10  6  2 11  2 10  7  9  6  8  3  0  7 12  5  0 10  8  8  4  0 11  1  2  3  1  8  7  5  7 12  6 11  4 10  4  5 
+PLAYER 2: hand 9
+PLAYER 2: draws 6
+PLAYER 2: discards 6
+DECK    :  4  1 12 11  9  3  2  0  9  5  3 10  6  2 11  2 10  7  9  6  8  3  0  7 12  5  0 10  8  8  4  0 11  1  2  3  1  8  7  5  7 12  6 11  4 10  4  5  6 
+PLAYER 3: hand 12
+PLAYER 3: draws 4
+PLAYER 3: discards 12
+DECK    :  1 12 11  9  3  2  0  9  5  3 10  6  2 11  2 10  7  9  6  8  3  0  7 12  5  0 10  8  8  4  0 11  1  2  3  1  8  7  5  7 12  6 11  4 10  4  5  6 12 
+PLAYER 1: hand 1
+PLAYER 1: draws 1
+PLAYER 1: hand 1 1
+PLAYER 1: wins
+PLAYER 1: round completed
+PLAYER 2: round completed
+PLAYER 3: round completed
+DEALER  : shuffle (round 3 / 3)
+DECK    :  6 12  0  9  9 11  7  5  4 11  7  3  2  1 12  1  6  7 12  2  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8 
+PLAYER 3: hand 1
+PLAYER 3: draws 6
+PLAYER 3: discards 1
+DECK    : 12  0  9  9 11  7  5  4 11  7  3  2  1 12  1  6  7 12  2  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 
+PLAYER 1: hand 3
+PLAYER 1: draws 12
+PLAYER 1: discards 12
+DECK    :  0  9  9 11  7  5  4 11  7  3  2  1 12  1  6  7 12  2  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12 
+PLAYER 2: hand 8
+PLAYER 2: draws 0
+PLAYER 2: discards 0
+DECK    :  9  9 11  7  5  4 11  7  3  2  1 12  1  6  7 12  2  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0 
+PLAYER 3: hand 6
+PLAYER 3: draws 9
+PLAYER 3: discards 6
+DECK    :  9 11  7  5  4 11  7  3  2  1 12  1  6  7 12  2  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6 
+PLAYER 1: hand 3
+PLAYER 1: draws 9
+PLAYER 1: discards 3
+DECK    : 11  7  5  4 11  7  3  2  1 12  1  6  7 12  2  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 
+PLAYER 2: hand 8
+PLAYER 2: draws 11
+PLAYER 2: discards 11
+DECK    :  7  5  4 11  7  3  2  1 12  1  6  7 12  2  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11 
+PLAYER 3: hand 9
+PLAYER 3: draws 7
+PLAYER 3: discards 7
+DECK    :  5  4 11  7  3  2  1 12  1  6  7 12  2  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7 
+PLAYER 1: hand 9
+PLAYER 1: draws 5
+PLAYER 1: discards 5
+DECK    :  4 11  7  3  2  1 12  1  6  7 12  2  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5 
+PLAYER 2: hand 8
+PLAYER 2: draws 4
+PLAYER 2: discards 4
+DECK    : 11  7  3  2  1 12  1  6  7 12  2  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 
+PLAYER 3: hand 9
+PLAYER 3: draws 11
+PLAYER 3: discards 11
+DECK    :  7  3  2  1 12  1  6  7 12  2  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11 
+PLAYER 1: hand 9
+PLAYER 1: draws 7
+PLAYER 1: discards 9
+DECK    :  3  2  1 12  1  6  7 12  2  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9 
+PLAYER 2: hand 8
+PLAYER 2: draws 3
+PLAYER 2: discards 8
+DECK    :  2  1 12  1  6  7 12  2  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8 
+PLAYER 3: hand 9
+PLAYER 3: draws 2
+PLAYER 3: discards 9
+DECK    :  1 12  1  6  7 12  2  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9 
+PLAYER 1: hand 7
+PLAYER 1: draws 1
+PLAYER 1: discards 1
+DECK    : 12  1  6  7 12  2  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 
+PLAYER 2: hand 3
+PLAYER 2: draws 12
+PLAYER 2: discards 12
+DECK    :  1  6  7 12  2  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12 
+PLAYER 3: hand 2
+PLAYER 3: draws 1
+PLAYER 3: discards 2
+DECK    :  6  7 12  2  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2 
+PLAYER 1: hand 7
+PLAYER 1: draws 6
+PLAYER 1: discards 7
+DECK    :  7 12  2  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2  7 
+PLAYER 2: hand 3
+PLAYER 2: draws 7
+PLAYER 2: discards 7
+DECK    : 12  2  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2  7  7 
+PLAYER 3: hand 1
+PLAYER 3: draws 12
+PLAYER 3: discards 1
+DECK    :  2  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2  7  7  1 
+PLAYER 1: hand 6
+PLAYER 1: draws 2
+PLAYER 1: discards 6
+DECK    :  4  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2  7  7  1  6 
+PLAYER 2: hand 3
+PLAYER 2: draws 4
+PLAYER 2: discards 4
+DECK    :  1  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2  7  7  1  6  4 
+PLAYER 3: hand 12
+PLAYER 3: draws 1
+PLAYER 3: discards 1
+DECK    :  3  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2  7  7  1  6  4  1 
+PLAYER 1: hand 2
+PLAYER 1: draws 3
+PLAYER 1: discards 2
+DECK    :  5  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2  7  7  1  6  4  1  2 
+PLAYER 2: hand 3
+PLAYER 2: draws 5
+PLAYER 2: discards 5
+DECK    :  9  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2  7  7  1  6  4  1  2  5 
+PLAYER 3: hand 12
+PLAYER 3: draws 9
+PLAYER 3: discards 9
+DECK    :  8  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2  7  7  1  6  4  1  2  5  9 
+PLAYER 1: hand 3
+PLAYER 1: draws 8
+PLAYER 1: discards 3
+DECK    :  6  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2  7  7  1  6  4  1  2  5  9  3 
+PLAYER 2: hand 3
+PLAYER 2: draws 6
+PLAYER 2: discards 3
+DECK    :  2  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2  7  7  1  6  4  1  2  5  9  3  3 
+PLAYER 3: hand 12
+PLAYER 3: draws 2
+PLAYER 3: discards 12
+DECK    :  6 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2  7  7  1  6  4  1  2  5  9  3  3 12 
+PLAYER 1: hand 8
+PLAYER 1: draws 6
+PLAYER 1: discards 8
+DECK    : 11  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2  7  7  1  6  4  1  2  5  9  3  3 12  8 
+PLAYER 2: hand 6
+PLAYER 2: draws 11
+PLAYER 2: discards 6
+DECK    :  0  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2  7  7  1  6  4  1  2  5  9  3  3 12  8  6 
+PLAYER 3: hand 2
+PLAYER 3: draws 0
+PLAYER 3: discards 2
+DECK    :  4 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2  7  7  1  6  4  1  2  5  9  3  3 12  8  6  2 
+PLAYER 1: hand 6
+PLAYER 1: draws 4
+PLAYER 1: discards 6
+DECK    : 12 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2  7  7  1  6  4  1  2  5  9  3  3 12  8  6  2  6 
+PLAYER 2: hand 11
+PLAYER 2: draws 12
+PLAYER 2: discards 11
+DECK    : 10 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2  7  7  1  6  4  1  2  5  9  3  3 12  8  6  2  6 11 
+PLAYER 3: hand 0
+PLAYER 3: draws 10
+PLAYER 3: discards 10
+DECK    : 10 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2  7  7  1  6  4  1  2  5  9  3  3 12  8  6  2  6 11 10 
+PLAYER 1: hand 4
+PLAYER 1: draws 10
+PLAYER 1: discards 10
+DECK    : 10  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2  7  7  1  6  4  1  2  5  9  3  3 12  8  6  2  6 11 10 10 
+PLAYER 2: hand 12
+PLAYER 2: draws 10
+PLAYER 2: discards 12
+DECK    :  0  8  3  0  4 10  9  7  5  5  2 11  8  1 12  0  6  3 11  7  5  4 11  9  8  9  1 12  2  7  7  1  6  4  1  2  5  9  3  3 12  8  6  2  6 11 10 10 12 
+PLAYER 3: hand 0
+PLAYER 3: draws 0
+PLAYER 3: hand 0 0
+PLAYER 3: wins
+PLAYER 3: round completed
+PLAYER 1: round completed
+PLAYER 2: round completed
+PLAYER 3: game finished
+PLAYER 1: game finished
+PLAYER 2: game finished
